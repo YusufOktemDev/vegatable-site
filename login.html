@@ -23,14 +23,19 @@
     </header>
     <main class="signup-page">
       <h1 class="signup-title">Login Your Account</h1>
-      <form action="" class="signup-form" id="signup-form">
+      <form
+        action="login.php"
+        method="post"
+        class="signup-form"
+        id="signup-form"
+      >
         <label for="email">Email</label>
-        <input type="email" id="email" />
+        <input type="email" id="email" name="email" required />
 
         <label for="password">Password</label>
-        <input type="password" id="password" />
+        <input type="password" id="password" name="password" required />
 
-        <input type="checkbox" id="agree-terms" />
+        <input type="checkbox" id="agree-terms" required />
         <label for="agree-terms">
           Agree to
           <a href="#">Terms &amp; Conditions</a>

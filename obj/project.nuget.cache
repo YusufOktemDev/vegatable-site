@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A+O0CnYg0co=",
+  "dgSpecHash": "0A1IBfUlt18=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusuf Öktem\\Documents\\GitHub\\Vegetable\\ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\Yusuf Öktem\\Desktop\\Vegetable\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusuf Öktem\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\Yusuf Öktem\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",
@@ -116,7 +116,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "'System.Data.SqlClient' 4.8.1 paketinde önem derecesi orta olan bilinen bir https://github.com/advisories/GHSA-8g2p-5pqh-5jmc güvenlik açığı var",
+      "message": "Package 'System.Data.SqlClient' 4.8.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g2p-5pqh-5jmc",
       "libraryId": "System.Data.SqlClient",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
@@ -126,7 +126,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "'System.Data.SqlClient' 4.8.1 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-98g6-xh36-x2p7 güvenlik açığı var",
+      "message": "Package 'System.Data.SqlClient' 4.8.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
       "libraryId": "System.Data.SqlClient",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"

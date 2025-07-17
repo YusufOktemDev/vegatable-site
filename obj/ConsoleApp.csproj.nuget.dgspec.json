@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yusuf Öktem\\Documents\\GitHub\\Vegetable\\ConsoleApp.csproj": {}
+    "C:\\Users\\Yusuf Öktem\\Desktop\\Vegetable\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yusuf Öktem\\Documents\\GitHub\\Vegetable\\ConsoleApp.csproj": {
+    "C:\\Users\\Yusuf Öktem\\Desktop\\Vegetable\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yusuf Öktem\\Documents\\GitHub\\Vegetable\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Yusuf Öktem\\Desktop\\Vegetable\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\Yusuf Öktem\\Documents\\GitHub\\Vegetable\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Yusuf Öktem\\Desktop\\Vegetable\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Yusuf Öktem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yusuf Öktem\\Documents\\GitHub\\Vegetable\\obj\\",
+        "outputPath": "C:\\Users\\Yusuf Öktem\\Desktop\\Vegetable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yusuf Öktem\\AppData\\Roaming\\NuGet\\NuGet.Config"
